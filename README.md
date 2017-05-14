@@ -1,6 +1,6 @@
 # Ruby Together Feedback Forum
 
-This repo is where anyone, member or not, can give feedback to [Ruby Together](https://rubytogether.org). Visit [issues](https://github.com/rubytogether/feedback/issues) to see current discussions, or [create a new discussion](https://github.com/rubytogether/feedback/issues/new).
+This repo is where anyone, member or not, can give feedback to [Ruby Together](https://rubytogether.org). You can [participate in existing discussions](https://github.com/rubytogether/feedback/issues), or [create a new discussion](https://github.com/rubytogether/feedback/issues/new).
 
 ### Why have a public feedback forum?
 
