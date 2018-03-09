@@ -1,5 +1,19 @@
 # Ruby Together Feedback Forum
 
+## Overview
+
+This repository serves two purposes:
+
+1. It serves our public-facing policies and documents.
+1. It invites and manages feedback on those documents, and the organization more
+   broadly.
+
+## Contents
+
+* [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) - Our Code of Conduct
+* [VISION_MISSON_VALUES.md](VISION_MISSON_VALUES.md) - Our Vision, Mission, and Values
+
+## Usage
 This repo is where anyone, member or not, can give feedback to [Ruby Together](https://rubytogether.org). You can [participate in existing discussions](https://github.com/rubytogether/feedback/issues), or [create a new discussion](https://github.com/rubytogether/feedback/issues/new).
 
 ### Why have a public feedback forum?
